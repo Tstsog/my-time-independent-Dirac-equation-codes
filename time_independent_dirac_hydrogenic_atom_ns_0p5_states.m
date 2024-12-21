@@ -1,5 +1,5 @@
 % This matlab code solves the time-independent Dirac equation for
-% for hydrogenic (ns, n=1,2,3...) atom Ref.[1], in which the pseudospectral method is used [2].  
+% hydrogenic (ns, n=1,2,3...) atom Ref.[1], in which the pseudospectral method is used [2].  
 %
 % The atomic unit (au) is used in the calculation.
 % Note that to get more accurate results, one would increase numerical parameters (N, a, b, etc., )
